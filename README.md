@@ -1,5 +1,6 @@
-### Hi there 👋
+> They say to study history or find yourself repeating it, but all that it prepares you for is forty years of teaching it.
 
+-Randall Munroe
 <!--
 **StrongSand94191/StrongSand94191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
