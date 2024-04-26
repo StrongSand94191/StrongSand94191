@@ -1,6 +1,8 @@
 > They say to study history or find yourself repeating it, but all that it prepares you for is forty years of teaching it.
 
 -Randall Munroe
+
+_(If you're looking for my resume, it's [right here](https://strongsand94191.github.io/)!)_
 <!--
 **StrongSand94191/StrongSand94191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
